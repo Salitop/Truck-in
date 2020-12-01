@@ -21,7 +21,8 @@ Kevin Gabriel Alves de Melo (Dev Team)
 [Github](https://github.com/kevingabrielmelo))
 
 Luiz Miguel Macedo Andre (Dev Team)
-([Linkedin](https://www.linkedin.com/in/luiz-miguel-475347193/))
+([Linkedin](https://www.linkedin.com/in/luiz-miguel-475347193/),
+[Github](https://github.com/Salitop))
 
 Salvador Lopes Junior (Dev Team)
 ([Linkedin](https://www.linkedin.com/in/salvador-lopes-jr-6626b01a2/),
